@@ -1,0 +1,9 @@
+.bundle
+db/*.sqlite3
+log/*.log
+doc/
+*.swp
+*~
+*.tar.gz
+Gemfile.lock
+*.kate-swp
